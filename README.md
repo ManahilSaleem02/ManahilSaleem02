@@ -1,31 +1,42 @@
-  <h1>Hi, I'm Manahil! </h1>
-  <h2>Cybersecurity Student</h2>
-  <hr>
+# Hi, I'm Manahil 👋
 
-  <h3> Currently working on:</h3>
-  <ol>
-    <li>Security scripts and web vulnerability demos</li>
-    <li>TryHackMe Security101 path</li>
-    <li>Building strong fundamentals in security operations</li>
-  </ol>
+**BS Cybersecurity student** at Iqra University, Karachi, interested in network security and DevSecOps. I build security tools in Python and practise on TryHackMe.
 
-  <h3> Currently learning:</h3>
-  <ol>
-    <li>Azure security, penetration testing, and incident response</li>
-    <li>OWASP Top 10</li>
-    <li>Splunk</li>
-  </ol>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manahilsaleem1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manahilsaleem9910@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
 
-  <h3> Open to collaborate on:</h3>
-  <ul>
-    <li>CTF challenges</li>
-    <li>Open-source cybersecurity tools</li>
-  </ul>
+## 🚀 Featured projects
 
-  <h3> Connect with me:</h3>
-  <a href="https://www.linkedin.com/in/manahilsaleem1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30px">
-  </a>
+- **[PhishLens](https://github.com/ManahilSaleem02/PhishLens)**: AI-powered phishing URL detector (FastAPI) that returns a risk score and a plain-English explanation. 96.3% accuracy, 98.7% phishing precision.
+- **[Reverse-engineering-project](https://github.com/ManahilSaleem02/Reverse-engineering-project)**: Reverse engineered DIVA (Damn Insecure and
+Vulnerable App) app.
+- **[Privacy Guardian](https://github.com/ManahilSaleem02/Privacy-Guardian)**: Calculates the risk score of permissions allowed if different apps by the user and generates a report.
+- **[File-Integrity-Checker](https://github.com/ManahilSaleem02/File-Integrity-Checker)**: Python CLI that generates and verifies SHA-256 hashes to detect unauthorised file changes.
 
-</body>
-</html>
+## 💼 Experience
+
+- **Cybersecurity Intern, DecodeLabs** (Jul – Oct 2026): hands-on projects in risk mitigation, identity management and threat surface reduction.
+- **Deloitte Australia Cyber Job Simulation** (Forage): analysed web activity logs to identify suspicious user activity during a simulated breach.
+
+## 🛠️ Tools & skills
+
+**Languages:** Python, Java, C, SQL, HTML
+**Security tools:** Burp Suite, Metasploit, Hashcat, Gobuster, Wireshark , Splunk
+**Platforms:** Linux, Git, GitHub
+
+## 📚 Currently learning
+
+- Azure security and incident response
+- OWASP Top 10
+- Splunk
+
+## 🎓 Certifications
+
+- Fortinet NSE 1: Cybersecurity and Cloud Fundamentals
+- TryHackMe Cyber Security 101 Pathway
+
+## 🤝 Open to collaborate on 
+
+- CTF challenges
+- Open-source cybersecurity tools
