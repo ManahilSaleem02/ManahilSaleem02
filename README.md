@@ -1,4 +1,4 @@
-# Hi, I'm Manahil 
+# Hi, I'm Manahil
 
 **BS Cybersecurity student** at Iqra University, Karachi, interested in network security and DevSecOps. I build security tools in Python and practise on TryHackMe.
 
@@ -8,11 +8,10 @@
 
 ## 🚀 Featured projects
 
-- **[PhishLens](https://github.com/ManahilSaleem02/PhishLens)**: AI-powered phishing URL detector (FastAPI) that returns a risk score and a plain-English explanation. 96.3% accuracy, 98.7% phishing precision.
-- **[Reverse-engineering-project](https://github.com/ManahilSaleem02/Reverse-engineering-project)**: Reverse engineered DIVA (Damn Insecure and
-Vulnerable App) app.
-- **[Privacy Guardian](https://github.com/ManahilSaleem02/Privacy-Guardian)**: Calculates the risk score of permissions allowed if different apps by the user and generates a report.
-- **[File-Integrity-Checker](https://github.com/ManahilSaleem02/File-Integrity-Checker)**: Python CLI that generates and verifies SHA-256 hashes to detect unauthorised file changes.
+- **[PhishLens](https://github.com/ManahilSaleem02/Phishlens)**: AI-powered phishing URL detector (FastAPI) that returns a risk score and a plain-English explanation. 96.3% accuracy, 98.7% phishing precision.
+- **[Reverse-engineering-project](https://github.com/ManahilSaleem02/Reverse-engineering-project)**: Decompiled and analysed DIVA (Damn Insecure and Vulnerable App), an intentionally vulnerable Android app, to find and document its security flaws.
+- **[Privacy Guardian](https://github.com/ManahilSaleem02/Privacy-Guardian-app)**: Web app that scores the privacy risk of the permissions a user allows, gives Privacy Advisor tips and generates a downloadable report.
+- **[File-Integrity-Checker](https://github.com/ManahilSaleem02/File-Integrity-Checker-SHA-256)**: Python CLI that generates and verifies SHA-256 hashes to detect unauthorised file changes.
 
 ## 💼 Experience
 
@@ -21,9 +20,9 @@ Vulnerable App) app.
 
 ## 🛠️ Tools & skills
 
-**Languages:** Python, Java, C, SQL, HTML
-**Security tools:** Burp Suite, Metasploit, Hashcat, Gobuster, Wireshark , Splunk
-**Platforms:** Linux, Git, GitHub
+- **Languages:** Python, Java, C, SQL, HTML
+- **Security tools:** Burp Suite, Metasploit, Hashcat, Gobuster, Wireshark
+- **Platforms:** Linux, Git, GitHub
 
 ## 📚 Currently learning
 
@@ -36,7 +35,7 @@ Vulnerable App) app.
 - Fortinet NSE 1: Cybersecurity and Cloud Fundamentals
 - TryHackMe Cyber Security 101 Pathway
 
-## 🤝 Open to collaborate on 
+## 🤝 Open to collaborate on
 
 - CTF challenges
 - Open-source cybersecurity tools
