@@ -1,5 +1,5 @@
   <h1>Hi, I'm Manahil! </h1>
-  <h2>Cybersecurity Professional</h2>
+  <h2>Cybersecurity Student</h2>
   <hr>
 
   <h3> Currently working on:</h3>
