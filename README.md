@@ -1,4 +1,4 @@
-# Hi, I'm Manahil 👋
+# Hi, I'm Manahil 
 
 **BS Cybersecurity student** at Iqra University, Karachi, interested in network security and DevSecOps. I build security tools in Python and practise on TryHackMe.
 
